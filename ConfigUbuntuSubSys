@@ -1,0 +1,6 @@
+sudo apt update && sudo apt upgrade
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 27
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 36
+sudo apt install python3-pip
+
+sudo ln -s /mnt/c/Users/Sichao\ Yang/Documents/ .
