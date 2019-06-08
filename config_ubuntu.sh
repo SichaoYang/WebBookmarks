@@ -11,3 +11,9 @@ sudo -H pip install -r requirements.txt
 rm -r Documents Pictures
 ln -s /media/sichao/1C228379228356A4/Users/Sichao\ Yang/Documents/ .
 ln -s /media/sichao/1C228379228356A4/Users/Sichao\ Yang/Pictures/ .
+
+# other tools
+sudo apt install net-tools nodejs npm 
+
+# take photos and screenshots
+sudo apt install fswebcam scrot
